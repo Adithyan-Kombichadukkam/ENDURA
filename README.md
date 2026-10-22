@@ -2,13 +2,9 @@
 
 A free Windows desktop application for organising scientific research, with essential notebook functions available offline.
 
-## Download ENDURA for Windows
-
-### [⬇ Download Windows installer — v1.0.0](https://github.com/Adithyan-Kombichadukkam/ENDURA/releases/download/v1.0.0/ENDURA-Setup-1.0.0.exe)
+## Release information
 
 **Early testing release.** Feedback is welcome.
-
-[View release details and downloads](https://github.com/Adithyan-Kombichadukkam/ENDURA/releases/tag/v1.0.0)
 
 ## What ENDURA does
 
@@ -20,7 +16,7 @@ A free Windows desktop application for organising scientific research, with esse
 
 ## Installation
 
-1. Download the Windows installer above.
+1. Open this repository’s Releases section to find the Windows installer.
 2. Run **ENDURA-Setup-1.0.0.exe** and follow the installation instructions.
 3. Open ENDURA to start your notebook.
 
